@@ -1,2 +1,5 @@
-# ansible-docker
-Ansible Dockerfile for deployment
+# Ansible docker file
+
+- Alpine
+- ansible 2.9.9
+- sshpass
